@@ -15,11 +15,13 @@ def greet(name=""):
     str
         The greeting
     """
-    return "Hello" +" "+  name
+    return "Hello" + " " + name
+
 
 def minimum(*args):
     """
-    A function taking some arguments and returning the minimum number among the arguments.
+    A function taking some arguments and returning
+    the minimum number among the arguments.
 
     Parameters
     ----------
