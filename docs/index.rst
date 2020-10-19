@@ -10,7 +10,9 @@ Welcome to ci-course's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   quickstart
 
+Hello wooooorld
 
 Indices and tables
 ==================
@@ -18,3 +20,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
