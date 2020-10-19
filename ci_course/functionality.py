@@ -15,8 +15,7 @@ def greet(name=""):
     str
         The greeting
     """
-    return f"Hello {name}"
-
+    return "Hello" + " " +  name
 
 def minimum(*args):
     """
@@ -41,3 +40,8 @@ def minimum(*args):
             the_min = min(the_min, arg)
 
     return the_min
+    - name: Test with pytest
+36
+      run: |
+37
+        pytest
